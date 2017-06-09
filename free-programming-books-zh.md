@@ -183,7 +183,7 @@
 * [FreeRADIUS新手入门](http://freeradius.akagi201.org)
 * [Linux Documentation (中文版)](https://tinylab.gitbooks.io/linux-doc/content/zh-cn/)
 * [Linux Guide for Complete Beginners](http://happypeter.github.io/LGCB/book/)
-* [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
+* [Linux 构建指南](https://linux.cn/lfs/LFS-BOOK-7.7-systemd/index.html)
 * [Linux 系统高级编程](http://sourceforge.net/projects/elpi/)
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
 * [Mac 开发配置手册](https://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
